@@ -1,0 +1,14 @@
+C:\Users\wiem\Documents\exempleAspCore\firstExp\bin\Debug\netcoreapp2.2\firstExp.deps.json
+C:\Users\wiem\Documents\exempleAspCore\firstExp\bin\Debug\netcoreapp2.2\firstExp.runtimeconfig.json
+C:\Users\wiem\Documents\exempleAspCore\firstExp\bin\Debug\netcoreapp2.2\firstExp.runtimeconfig.dev.json
+C:\Users\wiem\Documents\exempleAspCore\firstExp\bin\Debug\netcoreapp2.2\firstExp.dll
+C:\Users\wiem\Documents\exempleAspCore\firstExp\bin\Debug\netcoreapp2.2\firstExp.pdb
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.csprojAssemblyReference.cache
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.csproj.CoreCompileInputs.cache
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.RazorAssemblyInfo.cache
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.RazorAssemblyInfo.cs
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.AssemblyInfoInputs.cache
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.AssemblyInfo.cs
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.RazorTargetAssemblyInfo.cache
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.dll
+C:\Users\wiem\Documents\exempleAspCore\firstExp\obj\Debug\netcoreapp2.2\firstExp.pdb
